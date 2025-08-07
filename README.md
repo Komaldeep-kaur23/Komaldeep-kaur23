@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**Komaldeep-kaur23/Komaldeep-kaur23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I'm Komaldeep Kaur
 
-Here are some ideas to get you started:
+🚀 **Aspiring Project Management Professional** | 👷‍♀️ Civil Engineering Graduate (GBPUAT’25)  
+📍 Currently exploring planning, construction management, and tech in infrastructure.  
+🧠 Passionate about turning real-world chaos into well-managed workflows!
+-----
+### 🛠️ Tools & Tech I Use:
+- 📅 MS Project | 📊 Advanced Excel | 📐 AutoCAD
+- 📈 python  | 🔍 Tableau (Learning Phase)
+- 🧩 Project Planning | 📝 Documentation | 👥 Team Coordination
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ----
+  
+### 📂 Current Projects:
+- 🏗️ **Mini Construction Management Plan** using MS Project  
+- 📊 **Resource Allocation Tracker** (Excel-based PM tool)  
+- 🛣️ **Highway Planning Case Study**
+- --
+  ### 🌱 What I’m Learning:
+- Practical project scheduling in MS Project  
+- Data visualization for construction progress  
+- Agile basics & PM tools used in MNCs
+- -
+- ### ❤️ Fun Facts:
+- I love dancing 🩰, traveling ✈️, and making people smile 😊  
+- I don’t believe in making fun of others—just lifting people up
+-  ### 📫 Let’s Connect!
+- 🔗 [LinkedIn – Komaldeep Kaur](https://www.linkedin.com/in/komaldeepkauronly)  
+- 📧 Email: your-deepkaurkomal2313@example.com  
+- 🌐 Portfolio: *coming soon*  
+- And yes, I believe every messy project *can* be managed 😄
