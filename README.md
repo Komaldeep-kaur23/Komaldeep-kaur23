@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Komaldeep Kaur
 
-🚀 **Aspiring Project Management Professional** | 👷‍♀️ Civil Engineering Graduate (GBPUAT’25)  
+🚀 **Aspiring Project Management Professional** | 👷‍♀️  Graduate (GBPUAT’25)  
 📍 Currently exploring planning, construction management, and tech in infrastructure.  
 🧠 Passionate about turning real-world chaos into well-managed workflows!
 -----
