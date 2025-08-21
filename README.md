@@ -7,16 +7,16 @@
 🧠 Passionate about turning real-world chaos into well-managed workflows!
 -----
 ### 🛠️ Tools & Tech I Use:
-- 📅 MS Project | 📊 Advanced Excel | 📐 AutoCAD
+- 📅 MS Project | 📊 jira and  Excel | 📐  problem solving 
 - 📈 python  | 🔍 Tableau (Learning Phase)
 - 🧩 Project Planning | 📝 Documentation | 👥 Team Coordination
 
   ----
   
 ### 📂 Current Projects:
-- 🏗️ **Mini Construction Management Plan** using MS Project  
+- 🏗️ **Mini Management Plan** using MS Project  
 - 📊 **Resource Allocation Tracker** (Excel-based PM tool)  
-- 🛣️ **Highway Planning Case Study**
+- 
 - --
   ### 🌱 What I’m Learning:
 - Practical project scheduling in MS Project  
